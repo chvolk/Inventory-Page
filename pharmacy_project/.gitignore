@@ -4,6 +4,7 @@ venv/
 
 # Node modules
 node_modules/
+/pharmacy-frontend/node_m
 
 # Python cache
 __pycache__/
